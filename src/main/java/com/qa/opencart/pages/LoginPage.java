@@ -19,6 +19,7 @@ public class LoginPage {
 	private By loginBtn = By.xpath("//input[@value='Login']");
 	private By forgotPwdLink = By.linkText("Forgotten Password");
 	private By logo = By.cssSelector("img[title='naveenopencart']");
+	private By logo1 = By.cssSelector("img[title='naveenopencart111']");
 	
 	private By registerLink = By.linkText("Register");
 
